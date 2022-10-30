@@ -13,47 +13,47 @@ PrefabInstance:
       objectReference: {fileID: 7642471450098229259}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e00
-      value: -0.010861024
+      value: -0.04344415
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e01
-      value: 0.0002294187
+      value: 0.00091752555
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e03
-      value: -0.029750727
+      value: -0.11900297
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e10
-      value: -0.0011002476
+      value: -0.0044007087
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e11
-      value: -0.004634636
+      value: -0.018538587
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e12
-      value: -0.25881904
+      value: -1.0352762
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e13
-      value: 1.7227368
+      value: 6.8909473
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e20
-      value: 0.0020977184
+      value: 0.008391138
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e21
-      value: -0.001223416
+      value: -0.004893674
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e22
-      value: 0.9659258
+      value: 3.8637033
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e23
-      value: 0.08438027
+      value: 3.0075212
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: LeftEyeHoleMatrix.e33
@@ -61,47 +61,47 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e00
-      value: -0.011041151
+      value: -0.04416461
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e01
-      value: -0.00013001934
+      value: -0.0005200773
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e03
-      value: 0.030883316
+      value: 0.123533264
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e10
-      value: 0.0008850129
+      value: 0.00354001
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e11
-      value: -0.004730548
+      value: -0.01892219
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e12
-      value: -0.25881904
+      value: -1.0352762
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e13
-      value: 1.723862
+      value: 6.895448
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e20
-      value: -0.002169245
+      value: -0.008676825
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e21
-      value: -0.0012489336
+      value: -0.0049957354
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e22
-      value: 0.9659258
+      value: 3.8637033
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e23
-      value: 0.084411815
+      value: 3.0076473
       objectReference: {fileID: 0}
     - target: {fileID: -8732117233169666964, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: RightEyeHoleMatrix.e33
@@ -348,16 +348,28 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -3.75
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2.67
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -365,15 +377,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -386,6 +398,10 @@ PrefabInstance:
     - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4820258118833199303, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 9199261849990390558, guid: 0c30e2c4afffd9549b11c2ca7ff8affc, type: 3}
